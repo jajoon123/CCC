@@ -1,0 +1,7 @@
+C:\Study_A\2nd_project_1\project_1\project_1\bin\Debug\project_1.exe.config
+C:\Study_A\2nd_project_1\project_1\project_1\bin\Debug\project_1.exe
+C:\Study_A\2nd_project_1\project_1\project_1\bin\Debug\project_1.pdb
+C:\Study_A\2nd_project_1\project_1\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+C:\Study_A\2nd_project_1\project_1\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\Study_A\2nd_project_1\project_1\project_1\obj\Debug\project_1.exe
+C:\Study_A\2nd_project_1\project_1\project_1\obj\Debug\project_1.pdb
