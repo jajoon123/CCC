@@ -1,0 +1,7 @@
+D:\study_a\6th\sin_6\Project_3\bin\Debug\Project_3.exe.config
+D:\study_a\6th\sin_6\Project_3\bin\Debug\Project_3.exe
+D:\study_a\6th\sin_6\Project_3\bin\Debug\Project_3.pdb
+D:\study_a\6th\sin_6\Project_3\obj\Debug\Project_3.csproj.AssemblyReference.cache
+D:\study_a\6th\sin_6\Project_3\obj\Debug\Project_3.csproj.CoreCompileInputs.cache
+D:\study_a\6th\sin_6\Project_3\obj\Debug\Project_3.exe
+D:\study_a\6th\sin_6\Project_3\obj\Debug\Project_3.pdb
