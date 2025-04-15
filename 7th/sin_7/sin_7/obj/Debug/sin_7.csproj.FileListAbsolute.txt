@@ -1,0 +1,7 @@
+D:\study_a\7th\sin_7\sin_7\obj\Debug\sin_7.csproj.AssemblyReference.cache
+D:\study_a\7th\sin_7\sin_7\obj\Debug\sin_7.csproj.CoreCompileInputs.cache
+D:\study_a\7th\sin_7\sin_7\bin\Debug\sin_7.exe.config
+D:\study_a\7th\sin_7\sin_7\bin\Debug\sin_7.exe
+D:\study_a\7th\sin_7\sin_7\bin\Debug\sin_7.pdb
+D:\study_a\7th\sin_7\sin_7\obj\Debug\sin_7.exe
+D:\study_a\7th\sin_7\sin_7\obj\Debug\sin_7.pdb
