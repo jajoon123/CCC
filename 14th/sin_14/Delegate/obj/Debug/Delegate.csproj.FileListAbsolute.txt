@@ -1,0 +1,7 @@
+D:\study_a\14th\sin_14\Delegate\bin\Debug\Delegate.exe.config
+D:\study_a\14th\sin_14\Delegate\bin\Debug\Delegate.exe
+D:\study_a\14th\sin_14\Delegate\bin\Debug\Delegate.pdb
+D:\study_a\14th\sin_14\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+D:\study_a\14th\sin_14\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+D:\study_a\14th\sin_14\Delegate\obj\Debug\Delegate.exe
+D:\study_a\14th\sin_14\Delegate\obj\Debug\Delegate.pdb
