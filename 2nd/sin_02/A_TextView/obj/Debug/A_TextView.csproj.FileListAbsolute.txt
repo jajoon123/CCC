@@ -1,0 +1,11 @@
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.csproj.AssemblyReference.cache
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.Form1.resources
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.Properties.Resources.resources
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.csproj.GenerateResource.cache
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.csproj.CoreCompileInputs.cache
+D:\Study_A\2nd\sin_02\A_TextView\bin\Debug\A_TextView.exe.config
+D:\Study_A\2nd\sin_02\A_TextView\bin\Debug\A_TextView.exe
+D:\Study_A\2nd\sin_02\A_TextView\bin\Debug\A_TextView.pdb
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.exe
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.pdb
+D:\Study_A\2nd\sin_02\A_TextView\obj\Debug\A_TextView.exe.config
