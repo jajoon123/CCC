@@ -1,0 +1,11 @@
+D:\Study_A\1st\sin1\Picture01\bin\Debug\Picture01.exe.config
+D:\Study_A\1st\sin1\Picture01\bin\Debug\Picture01.exe
+D:\Study_A\1st\sin1\Picture01\bin\Debug\Picture01.pdb
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.csproj.AssemblyReference.cache
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.Form1.resources
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.Properties.Resources.resources
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.csproj.GenerateResource.cache
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.csproj.CoreCompileInputs.cache
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.exe
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.pdb
+D:\Study_A\1st\sin1\Picture01\obj\Debug\Picture01.exe.config
