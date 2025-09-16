@@ -1,0 +1,11 @@
+D:\Study_A\3rd\sin_03\A_Progress\bin\Debug\A_Progress.exe.config
+D:\Study_A\3rd\sin_03\A_Progress\bin\Debug\A_Progress.exe
+D:\Study_A\3rd\sin_03\A_Progress\bin\Debug\A_Progress.pdb
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.csproj.AssemblyReference.cache
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.Form1.resources
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.Properties.Resources.resources
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.csproj.GenerateResource.cache
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.csproj.CoreCompileInputs.cache
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.exe
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.pdb
+D:\Study_A\3rd\sin_03\A_Progress\obj\Debug\A_Progress.exe.config

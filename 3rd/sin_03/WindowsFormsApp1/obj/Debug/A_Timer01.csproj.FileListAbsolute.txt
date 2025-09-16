@@ -1,0 +1,10 @@
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\A_Timer01.csproj.AssemblyReference.cache
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\A_Timer01.csproj.GenerateResource.cache
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\A_Timer01.csproj.CoreCompileInputs.cache
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study_A\3rd\sin_03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
