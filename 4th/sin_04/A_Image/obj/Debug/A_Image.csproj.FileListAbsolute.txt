@@ -1,0 +1,11 @@
+D:\Study_A\4th\sin_04\A_Image\bin\Debug\A_Image.exe.config
+D:\Study_A\4th\sin_04\A_Image\bin\Debug\A_Image.exe
+D:\Study_A\4th\sin_04\A_Image\bin\Debug\A_Image.pdb
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.csproj.AssemblyReference.cache
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.Form1.resources
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.Properties.Resources.resources
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.csproj.GenerateResource.cache
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.csproj.CoreCompileInputs.cache
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.exe
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.pdb
+D:\Study_A\4th\sin_04\A_Image\obj\Debug\A_Image.exe.config
