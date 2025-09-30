@@ -1,0 +1,20 @@
+시험 문제 내면 어떤걸 낼까 -> 
+
+Form3 frm3 = new Form3();
+  frm3.ShowDialog();
+  frm3.SetText = this.txtModaless.Text + " 실행";
+
+
+
+여기에서
+
+Form3 () = new Form3();
+  frm3.ShowDialog();
+  frm3.SetText = this.txtModaless.Text + " 실행";
+
+() <- 가로 넣기 한다면 이걸 넣을거다 인스턴스
+
+모달과 모달리스 구분 시키는거
+
+ShowDialog(), Show() 이거 2개
+ 
